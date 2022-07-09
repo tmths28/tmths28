@@ -17,4 +17,5 @@
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
+        <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
