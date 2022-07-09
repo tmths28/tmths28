@@ -2,7 +2,7 @@
 <h3 align="center">Amateur developer from Germany</h3>
 
 - 🔨 Currently working on [Anna Devs](https://github.com/anna-devs)
-- 📖 Currently learning **Swift**
+- 📖 Currently learning **Swift** and **Java**
 
 </p>
 <h3 align="center">Languages</h3>
