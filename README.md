@@ -11,7 +11,7 @@
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg />
+    <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </p>
 
 <h3 align="center">Tools</h3>
