@@ -4,18 +4,18 @@
 </p>
 <h1 align="center">I'm Timotheos  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Amateur+developer+from+Germany;Algorithms%20|%20NNs%20|%20ML%20;Always%20eager%20to%20learn!&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+and+amateur+developer;Apps|%20NNs%20|%20ML%20|%20DL%20;Always%20eager%20to%20learn!&center=true&width=500&height=50"></a>
 </p>
 
-- 🔨 Currently working on [Anna Devs](https://github.com/anna-devs)
-- 📖 Currently learning **Swift** and **Java**
-- 🔎 Currently learning Machine Learning
+- 🔭 Currently working on [Anna Devs](https://github.com/anna-devs)
+- 🌱 Currently learning **Swift** and **Java**
+- 🌱 Currently learning about Neural Networks and Machine Learning
 
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
-    <img width="40px" style="background-color: #fff; border-radius: 5px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="40px" style="background-color: #fff; border-radius: 5px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </p>
