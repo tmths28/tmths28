@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">I'm Timotheos  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+and+amateur+developer;Apps|%20NNs%20|%20ML%20|%20DL%20;Always%20eager%20to%20learn!&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+and+amateur+developer;Apps|%20NNs%20|%20ML%20;Always%20eager%20to%20learn!&center=true&width=500&height=50"></a>
 </p>
 
 - 🔭 Currently working on [Anna Devs](https://github.com/anna-devs)
