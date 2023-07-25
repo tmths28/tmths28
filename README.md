@@ -8,8 +8,7 @@
 </p>
 
 - 🔭 Currently working on [Anna Devs](https://github.com/anna-devs)
-- 🌱 Currently learning **Swift** and **Java**
-- 🌱 Currently learning about Neural Networks and Machine Learning
+- 🌱 Currently learning **React**
 
 </p>
 <h3 align="center">Languages</h3>
